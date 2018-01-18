@@ -19,6 +19,7 @@ For a simple but clean i3-gaps setup
 * i3
 * dmenu
 * i3-gaps
+* NetworkManager
 * compton
 * terminator
 * polybar
