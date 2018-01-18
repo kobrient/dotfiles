@@ -26,6 +26,11 @@ For a simple but clean i3-gaps setup
 * feh
 * i3lock
 
+## Adjust
+* DPI Scaling in .Xresources and .config/i3/config
+* LightDM mini greeter colors and login size in lightdm-mini-greeter.conf
+* Fonts and text size in .config/{terminator/config, i3/config, i3status/config}
+
 ## Notes
 Make sure i3.desktop file makes it into /usr/share/xsessions/
 
