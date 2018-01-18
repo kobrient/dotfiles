@@ -27,8 +27,11 @@ For a simple but clean i3-gaps setup
 
 ## Notes
 Make sure i3.desktop file makes it into /usr/share/xsessions/
+
 Lightdm configs go in: /etc/lightdm/
-Top level dotfiles go ~
+
+Top level dotfiles go in ~
+
 .config gets merged into ~/.config
 
 
