@@ -34,4 +34,3 @@ Top level dotfiles go in ~
 
 .config gets merged into ~/.config
 
-
