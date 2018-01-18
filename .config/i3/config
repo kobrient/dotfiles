@@ -17,6 +17,8 @@ font pango:monospace 8
 
 #Adjust for HiDpi display
 exec xrandr --dpi 240
+#Turn on NetworkManager Applet
+exec --no-startup-id nm-applet
 
 # Compton
 exec --no-startup-id /usr/bin/compton --config ~/.compton.conf
@@ -198,4 +200,5 @@ exec --no-startup-id i3-msg 'workspace 1; exec terminator'
 # finds out, if available)
 bar {
         status_command i3status
+        tray_output primary
 }
