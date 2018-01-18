@@ -34,3 +34,4 @@ Top level dotfiles go in ~
 
 .config gets merged into ~/.config
 
+![Desktop Screenshot] (https://raw.githubusercontent.com/kobrient/dotfiles/master/2018-01-18-142926_scrot.png "Desktop Screenshot")
