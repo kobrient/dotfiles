@@ -33,4 +33,5 @@ fi
 #fi
 
 xrdb -merge /home/kyle/.Xresources
+setxkbmap -option caps:escape
 exec i3 -V >> /home/kyle/i3log-$(date +'%F-%k-%M-%S') 2>&1

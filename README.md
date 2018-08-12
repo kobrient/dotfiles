@@ -2,12 +2,9 @@
 For a simple but clean i3-gaps setup
 
 ## Xorg Dependencies:
-* xinit-xsession
 * xorg-server
-* xorg-server-utils
 * xorg-server-xephyr
 * xorg-twm
-* xorg-utils
 * xorg-xclock
 * xorg-xinit
 * xorg-xmodmap
@@ -15,19 +12,21 @@ For a simple but clean i3-gaps setup
 
 ## DE Dependencies
 * lightdm
-* lightdm-mini-greeter
+* lightdm-mini-greeter AUR
 * i3
 * dmenu
 * i3-gaps
-* NetworkManager
+* networkmanager
+* networkmanager-applet
 * compton
 * terminator
-* polybar
+* polybar AUR
 * feh
 * i3lock
 
 ## Adjust
 * DPI Scaling in .Xresources and .config/i3/config
+* Adjust height, dpi, and border size in .config/polybar/config
 * LightDM mini greeter colors and login size in lightdm-mini-greeter.conf
 * Fonts and text size in .config/{terminator/config, i3/config, i3status/config}
 
